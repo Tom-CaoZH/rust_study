@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("TC 2022 06 10");
 }
